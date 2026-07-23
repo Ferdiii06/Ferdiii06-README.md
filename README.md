@@ -1,13 +1,13 @@
 <div align="center">
 ![Pixel Cat Coding](https://raw.githubusercontent.com/Ferdiii06/Ferdiii06/main/pixel-cat-coding.svg)
  
-### Ferdi • Ferry Ferdiansyah
-**Software Engineer Intern @ PT JAI • Full-Stack Developer**
+### Ferry Ferdiansyah
+**Software Engineer Intern • Full-Stack Developer • App Mobile Developer **
  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-instagram)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.my.id)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferdiferdiansyah957@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferryferdiansyah51/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ferdiii_f)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ferdiansyah.web.id)
  
 </div>
 
@@ -17,7 +17,7 @@
 
 ```yaml
 name: "Ferry Ferdiansyah"
-role: "Software Engineer | Full-Stack Developer"
+role: "Software Engineer | Full-Stack Developer | App Mobile Developer"
 education: "Informatic Engineering, Electronic Engineering Polytechnic of Surabaya"
 location: "Surabaya, Indonesia 🇮🇩"
 focus:
