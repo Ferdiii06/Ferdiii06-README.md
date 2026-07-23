@@ -1,14 +1,14 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ferdi+%F0%9F%91%8B;Software+Engineer+Intern+%40+PT+JAI;Flutter+%26+Laravel+Developer;Next.js+%7C+Full-Stack+Enthusiast)](https://git.io/typing-svg)
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1C3364,100:00F7FF&height=200&section=header&text=Ferdi%20%E2%80%A2%20Ferry%20Ferdiansyah&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20Intern%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=55&descSize=18)
-
+![Pixel Cat Coding](https://raw.githubusercontent.com/Ferdiii06/Ferdiii06/main/pixel-cat-coding.svg)
+ 
+### Ferdi • Ferry Ferdiansyah
+**Software Engineer Intern @ PT JAI • Full-Stack Developer**
+ 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-instagram)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.my.id)
-
+ 
 </div>
 
 ---
