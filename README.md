@@ -16,17 +16,15 @@
 ### 👨‍💻 About Me
 
 ```yaml
-name: "Ferdi (Ferry Ferdiansyah)"
-role: "Software Engineer Intern @ PT JAI | Full-Stack Developer"
-education: "D3 Teknik Informatika, PENS (Politeknik Elektronika Negeri Surabaya)"
+name: "Ferry Ferdiansyah"
+role: "Software Engineer | Full-Stack Developer"
+education: "Informatic Engineering, Electronic Engineering Polytechnic of Surabaya"
 location: "Surabaya, Indonesia 🇮🇩"
 focus:
-  - Building mobile apps with Flutter for real-world field operations
-  - Developing Laravel-based dashboards & REST APIs
-  - Creating modern web apps with Next.js & Tailwind CSS
-currently_working_on: "Genba A — Defect QA Monitoring System (Flutter + Laravel + Reverb)"
-currently_learning: "WebSocket architecture, real-time systems, and cloud deployment"
-fun_fact: "I debug ngrok tunnels for fun (not really, but I do it a lot) 😄"
+ - Developing mobile applications with Flutter for real-world field operations
+- Building web applications & dashboards with Laravel and REST APIs
+- Designing modern, responsive websites with Next.js & Tailwind CSS
+- Designing intuitive user interfaces and seamless user experiences (UI/UX)
 ```
 
 ---
@@ -36,25 +34,30 @@ fun_fact: "I debug ngrok tunnels for fun (not really, but I do it a lot) 😄"
 <div align="center">
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
-
----
 
 ### 📊 GitHub Stats
 
@@ -77,11 +80,8 @@ fun_fact: "I debug ngrok tunnels for fun (not really, but I do it a lot) 😄"
 
 | Project | Deskripsi | Tech Stack |
 |---|---|---|
-| **Genba A** | Sistem monitoring QA defect: app Flutter untuk input lapangan (Zebra TC27) + dashboard Laravel real-time | Flutter, Laravel, Reverb, MySQL/PostgreSQL |
+| **FoodHealthcare** | Platform e-commerce kesehatan & nutrisi berbasis web yang responsif di berbagai perangkat | React, Vite, Tailwind CSS |
 | **Insight News** | Portal berita Next.js dengan tema dark navy/cyan, filter kategori, dan mode gelap | Next.js, Tailwind CSS |
-| **Portal Berita** | Portal berita real-time dengan update artikel via Server-Sent Events | Next.js, Prisma, MySQL, Tailwind CSS |
-
-> 💡 *Tambahkan repo unggulan lainnya di sini agar tampil sebagai kartu.*
 
 ---
 
