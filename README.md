@@ -87,7 +87,7 @@ currently:
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ferdiii06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ferdiii06&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+<img src="https://streak-stats.demolab.com?user=Ferdiii06&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferdiii06&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
@@ -99,16 +99,16 @@ currently:
 
 <div align="center">
 
-<a href="https://github.com/Ferdiii06/REPO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ferdiii06&repo=REPO-1&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Ferdiii06/portofolio2025">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ferdiii06&repo=portofolio2025&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/Ferdiii06/REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ferdiii06&repo=REPO-2&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Ferdiii06/portalberita">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ferdiii06&repo=portalberita&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
 
-> 💡 Ganti `REPO-1` dan `REPO-2` dengan nama repository kamu yang sebenarnya (harus persis sama dengan nama repo di GitHub).
+> 💡 Aku isikan `portofolio2025` dan `portalberita` sebagai contoh dari repo yang ada di akunmu. Ganti kalau ada repo lain yang lebih ingin kamu tonjolkan.
 
 ---
 
