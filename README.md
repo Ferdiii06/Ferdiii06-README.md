@@ -100,9 +100,9 @@ currently:
 
 | Project | Tech | Link |
 |---|---|---|
-| **portofolio2025** | JavaScript | [Lihat Repo](https://github.com/Ferdiii06/portofolio2025) |
-| **portalberita** | PHP | [Lihat Repo](https://github.com/Ferdiii06/portalberita) |
-| **TugasWebDesa** | HTML | [Lihat Repo](https://github.com/Ferdiii06/TugasWebDesa) |
+| **Portofolio Personal** | JavaScript | [Lihat Repo](https://ferdiansyah.web.id) |
+| **Joki Grizzly** | PHP | [Lihat Repo](https://website-joki-grizzly.vercel.app) |
+| **Athlos AI** | JavaScript | [Lihat Repo](https://Athlos-ai-sepia.vercel.app) |
 
 </div>
 
