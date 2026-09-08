@@ -98,11 +98,63 @@ currently:
 
 <div align="center">
 
-| Project | Tech | Link |
-|---|---|---|
-| **Portofolio Personal** | JavaScript | [Lihat Repo](https://ferdiansyah.web.id) |
-| **Joki Grizzly** | PHP | [Lihat Repo](https://website-joki-grizzly.vercel.app) |
-| **Athlos AI** | JavaScript | [Lihat Repo](https://Athlos-ai-sepia.vercel.app) |
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📰 Portal Berita</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/github/last-commit/Ferdiii06/portalberita?style=flat-square&color=blue" />
+      </p>
+      <p align="center">Aplikasi web portal berita dengan fitur CRUD artikel dan manajemen konten.</p>
+      <p align="center">
+        <a href="https://github.com/Ferdiii06/portalberita">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">💼 Portofolio 2025</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/github/last-commit/Ferdiii06/portofolio2025?style=flat-square&color=blue" />
+      </p>
+      <p align="center">Website portofolio pribadi untuk menampilkan proyek dan pengalaman.</p>
+      <p align="center">
+        <a href="https://github.com/Ferdiii06/portofolio2025">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏘️ Tugas Web Desa</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/github/last-commit/Ferdiii06/TugasWebDesa?style=flat-square&color=blue" />
+      </p>
+      <p align="center">Website profil desa dengan informasi layanan dan data kependudukan.</p>
+      <p align="center">
+        <a href="https://github.com/Ferdiii06/TugasWebDesa">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">⚙️ Sistem Operasi 2025</h3>
+      <p align="center">
+        <img src="https://img.shields.io/github/last-commit/Ferdiii06/SisOp-2025?style=flat-square&color=blue" />
+      </p>
+      <p align="center">Kumpulan praktikum dan tugas mata kuliah Sistem Operasi.</p>
+      <p align="center">
+        <a href="https://github.com/Ferdiii06/SisOp-2025">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
