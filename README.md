@@ -86,14 +86,12 @@ currently:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ferdifernandez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ferdifernandez&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ferdiii06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ferdiii06&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdifernandez&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferdiii06&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
 </div>
-
-> ⚠️ Ganti `ferdifernandez` pada URL statistik di atas dengan **username GitHub kamu yang sebenarnya** agar datanya tampil dengan benar.
 
 ---
 
@@ -101,23 +99,23 @@ currently:
 
 <div align="center">
 
-<a href="https://github.com/USERNAME/REPO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO-1&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Ferdiii06/REPO-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ferdiii06&repo=REPO-1&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/USERNAME/REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO-2&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Ferdiii06/REPO-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ferdiii06&repo=REPO-2&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
 
-> 💡 Ganti `USERNAME`, `REPO-1`, dan `REPO-2` dengan repository terbaikmu untuk menampilkan pinned project card di sini.
+> 💡 Ganti `REPO-1` dan `REPO-2` dengan nama repository kamu yang sebenarnya (harus persis sama dengan nama repo di GitHub).
 
 ---
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ferdifernandez&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ferdiii06&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -128,6 +126,6 @@ currently:
 
 Feel free to reach out for collaborations, freelance projects, or just a chat about tech!
 
-<img src="https://komarev.com/ghpvc/?username=ferdifernandez&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Ferdiii06&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
 </div>
