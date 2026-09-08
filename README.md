@@ -86,10 +86,9 @@ currently:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ferdiii06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+![Followers](https://img.shields.io/github/followers/Ferdiii06?style=for-the-badge&color=blue&label=Followers)
+![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=success&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/Ferdiii06)
 <img src="https://streak-stats.demolab.com?user=Ferdiii06&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferdiii06&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
 </div>
 
@@ -99,24 +98,23 @@ currently:
 
 <div align="center">
 
-<a href="https://github.com/Ferdiii06/portofolio2025">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ferdiii06&repo=portofolio2025&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Ferdiii06/portalberita">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ferdiii06&repo=portalberita&theme=tokyonight&hide_border=true" />
-</a>
+| Project | Tech | Link |
+|---|---|---|
+| **portofolio2025** | JavaScript | [Lihat Repo](https://github.com/Ferdiii06/portofolio2025) |
+| **portalberita** | PHP | [Lihat Repo](https://github.com/Ferdiii06/portalberita) |
+| **TugasWebDesa** | HTML | [Lihat Repo](https://github.com/Ferdiii06/TugasWebDesa) |
 
 </div>
-
-> 💡 Aku isikan `portofolio2025` dan `portalberita` sebagai contoh dari repo yang ada di akunmu. Ganti kalau ada repo lain yang lebih ingin kamu tonjolkan.
 
 ---
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ferdiii06&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <img src="./contribution-graph.png" alt="Contribution Graph" width="700"/>
 </div>
+
+> 📸 Ganti gambar di atas dengan screenshot contribution graph dari profil GitHub kamu. Upload file `contribution-graph.png` ke repo ini, timpa setiap beberapa bulan sekali biar tetap update.
 
 ---
 
@@ -125,7 +123,5 @@ currently:
 ### 📫 Let's Connect!
 
 Feel free to reach out for collaborations, freelance projects, or just a chat about tech!
-
-<img src="https://komarev.com/ghpvc/?username=Ferdiii06&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
 </div>
