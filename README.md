@@ -95,49 +95,47 @@ currently:
 ---
 
 ## 🚀 Featured Projects
-
 <div align="center">
-
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">📰 Portal Berita</h3>
+      <h3 align="center">Portofolio Personal</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
         <img src="https://img.shields.io/github/last-commit/Ferdiii06/portalberita?style=flat-square&color=blue" />
       </p>
-      <p align="center">Aplikasi web portal berita dengan fitur CRUD artikel dan manajemen konten.</p>
+      <p align="center">Website portofolio pribadi berisi profil, keahlian, dan pengalaman saya sebagai software engineer.</p>
       <p align="center">
-        <a href="https://github.com/Ferdiii06/portalberita">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <a href="https://ferdiansyah.web.id">
+          <img src="https://img.shields.io/badge/Visit_Site-181717?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">💼 Portofolio 2025</h3>
+      <h3 align="center">Joki Grizzly</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/github/last-commit/Ferdiii06/portofolio2025?style=flat-square&color=blue" />
       </p>
-      <p align="center">Website portofolio pribadi untuk menampilkan proyek dan pengalaman.</p>
+      <p align="center">Platform jasa pengerjaan coding: full-stack development, mobile app development, dan database.</p>
       <p align="center">
-        <a href="https://github.com/Ferdiii06/portofolio2025">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <a href="https://website-joki-grizzly.vercel.app">
+          <img src="https://img.shields.io/badge/Visit_Site-181717?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🏘️ Tugas Web Desa</h3>
+      <h3 align="center">Athlos AI</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/github/last-commit/Ferdiii06/TugasWebDesa?style=flat-square&color=blue" />
       </p>
-      <p align="center">Website profil desa dengan informasi layanan dan data kependudukan.</p>
+      <p align="center">Website berbasis AI bernama Athlos, dirancang untuk membantu menyelesaikan pekerjaan maupun tugas sehari-hari.</p>
       <p align="center">
-        <a href="https://github.com/Ferdiii06/TugasWebDesa">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <a href="https://athlos-ai-sepia.vercel.app">
+          <img src="https://img.shields.io/badge/Visit_Site-181717?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
       </p>
     </td>
@@ -155,25 +153,39 @@ currently:
     </td>
   </tr>
 </table>
-
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="./contribution-graph.png" alt="Contribution Graph" width="700"/>
+
+<img src="./contribution-graph.png" alt="Contribution Graph" width="800" style="border-radius: 10px; border: 1px solid #30363d;"/>
+
+<sub>🗓️ Terakhir diperbarui: <b>September 2026</b> — update manual setiap beberapa bulan</sub>
+
 </div>
 
-> 📸 Ganti gambar di atas dengan screenshot contribution graph dari profil GitHub kamu. Upload file `contribution-graph.png` ke repo ini, timpa setiap beberapa bulan sekali biar tetap update.
-
 ---
-
-<div align="center">
-
 ### 📫 Let's Connect!
 
-Feel free to reach out for collaborations, freelance projects, or just a chat about tech!
+Punya ide proyek, tertarik kolaborasi, atau sekadar mau ngobrol soal teknologi?  
+Jangan ragu untuk menghubungi saya — saya selalu terbuka untuk peluang baru! 🚀
+
+<p align="center">
+  <a href="mailto:ferdiferdiansyah957@gmail.com">
+    <img src="https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ferry-ferdiansyah51/">
+    <img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="footer wave" width="100%"/>
+
+<sub>⭐️ Thanks for visiting my profile — feel free to star my repos if you find them useful!</sub>
 
 </div>
