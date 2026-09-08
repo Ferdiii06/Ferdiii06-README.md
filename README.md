@@ -140,13 +140,13 @@ currently:
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">⚙️ Sistem Operasi 2025</h3>
+      <h3 align="center">Urban unit</h3>
       <p align="center">
         <img src="https://img.shields.io/github/last-commit/Ferdiii06/SisOp-2025?style=flat-square&color=blue" />
       </p>
-      <p align="center">Kumpulan praktikum dan tugas mata kuliah Sistem Operasi.</p>
+      <p align="center">Sebuah website e-commerce yang menjual berbagai furniture yang elegan.</p>
       <p align="center">
-        <a href="https://github.com/Ferdiii06/SisOp-2025">
+        <a href="https://urban-unit-lvko.vercel.app/">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
